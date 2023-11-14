@@ -1,6 +1,6 @@
 # Visual-Impairment-Web-Assistant
 ____________________________________________________________________________________________________________________________________________
-  ### ---IMPORTANT NOTE: The MVP (Version 1.0) has a planned release of 11/15/2023. Development is still underway and I am doing this by myself so bare with me :) 
+  ### ---IMPORTANT NOTE: The MVP (Version 1.0) has a planned release of 12/15/2023. Development is still underway and I am doing this by myself so bare with me :) 
 ____________________________________________________________________________________________________________________________________________
 ## Description
 WebSum is a specialized web summarization tool designed with the visually impaired community in mind. By providing concise summaries of web content in both text and audio formats, our tool aims to enhance the browsing experience and make information more accessible.
